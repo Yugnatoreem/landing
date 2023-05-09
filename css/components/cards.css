@@ -1,0 +1,28 @@
+.card img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 80px;
+  width: 80px;
+}
+
+.cards {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.card {
+  height: 250px;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  box-shadow: 3px 3px 15px grey;
+  margin: 10px;
+}
+
+/* .card:hover {
+  height: 270px;
+  width: 215px;
+} */
